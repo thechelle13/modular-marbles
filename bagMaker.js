@@ -15,4 +15,3 @@ const weaveBag = (materialString) => {
 
 module.exports = { weaveBag }
 
-// 
